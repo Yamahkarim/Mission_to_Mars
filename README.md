@@ -3,12 +3,15 @@
 ![mars](img/mars.png) 
 
 ##Objective
+
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page created with a flask API. 
 
 ##Technologies 
+
 Python 3, Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter, Pandas 
 
 ## Explore 
+
 ### Step 1: Web Scraping with Beautful Soup 
 
 1.) Create and activate a new [Virtual Enviornment](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1)
